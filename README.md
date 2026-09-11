@@ -139,7 +139,6 @@ CSE Student | Aspiring AI/ML Engineer | Data Science & Machine Learning Enthusia
 
 - Python for Data Science
 - Machine Learning
-- Data Analysis
 - DSA with Java
 - Building AI/ML Projects
 

@@ -35,10 +35,6 @@ CSE Student | Aspiring AI/ML Engineer | Data Science & Machine Learning Enthusia
 <img src="https://skillicons.dev/icons?i=java" width="60"/>
 </td>
 
-<td align="center" width="120">
-<b>C++</b><br><br>
-<img src="https://skillicons.dev/icons?i=cpp" width="60"/>
-</td>
 
 <td align="center" width="120">
 <b>SQL</b><br><br>

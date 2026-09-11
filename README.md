@@ -88,11 +88,6 @@ CSE Student | Aspiring AI/ML Engineer | Data Science & Machine Learning Enthusia
 <tr>
 
 <td align="center" width="120">
-<b>Git</b><br><br>
-<img src="https://skillicons.dev/icons?i=git" width="60"/>
-</td>
-
-<td align="center" width="120">
 <b>GitHub</b><br><br>
 <img src="https://skillicons.dev/icons?i=github" width="60"/>
 </td>
